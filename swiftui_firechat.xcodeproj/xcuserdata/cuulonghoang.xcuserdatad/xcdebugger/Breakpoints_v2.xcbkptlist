@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "370BD09F-8523-4E58-A030-3B856AB985F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5E2734B-973D-449B-9EAF-33654D874EF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftui_firechat/Messages/MessagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "customNavBar"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A5E2734B-973D-449B-9EAF-33654D874EF2 - 1f05b96212fcc880"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;swiftui_firechat.ProfileView&gt; in swiftui_firechat.MessagesView.customNavBar.getter : some"
+                  moduleName = "swiftui_firechat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuulonghoang/Downloads/Document/iOS/swiftui_firechat/swiftui_firechat/Messages/MessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "A5E2734B-973D-449B-9EAF-33654D874EF2 - 1f05b96212fcc880"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;swiftui_firechat.ProfileView&gt; in swiftui_firechat.MessagesView.customNavBar.getter : some"
+                  moduleName = "swiftui_firechat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuulonghoang/Downloads/Document/iOS/swiftui_firechat/swiftui_firechat/Messages/MessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
